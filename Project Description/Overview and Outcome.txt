@@ -6,4 +6,4 @@
 
 
 Outcomes
-For the outcome of this project we 
+The outcome for this project would be that we have a robust, reliable working application and system to suit the novice at-home gardener and students then be able to expand on that technology to cater for large industrial vertical farms to increase their maximum capacity using a minimal carbon footprint
