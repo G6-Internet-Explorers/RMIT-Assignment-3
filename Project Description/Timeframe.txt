@@ -1,0 +1,9 @@
+Timeframe
+This means that your plan will be for a total of 15 weeks, with the first 6 being on this assignment. (Allotted 36 hours for assessment and 100 hours after the course per person)
+“This should be presented in the form of a table, with one row for each week, specifying as best you can the work for each person for each week.  This means that the first six rows of the table will describe your progress so far, and the remaining 10 your best guess at how the remaining time would work.”
+“This may include getting familiar with tools, or reading up on a particular technique or technology. You should also include time for writing up the final report and any other documentation”.
+Suggestions:
+•	Gant chart in Excel
+•	Monday.com
+•	Trello? 
+Discuss as group the tool to use and completed by ___name___ Due Date
