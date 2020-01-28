@@ -1,0 +1,2 @@
+Roles
+This would require a Solution Architect (Brian) to evaluate and co-ordinate technologies, a Chief Information Officer  (Jeremy) to look at available cloud based technologies and deliverables, a Principal Data Insights Analyst (Shane) to evaluate the data used to feed the A.I. and a Machine Learning Engineer (Daria) to guide us through the process.

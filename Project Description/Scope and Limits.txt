@@ -1,0 +1,8 @@
+Scope and Limits
+1 paragraph
+Within our time frame, what parts of the project would we knock out first to present to someone?
+Ideas:
+•	Layout of the app (knock-up screenshot of the UI)
+•	Flowchart of the process.
+•	Database of Questions
+•	Knowledge Base (responses from the AI)

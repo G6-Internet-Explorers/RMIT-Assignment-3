@@ -1,0 +1,5 @@
+Testing
+1 paragraph
+•	How will we test the project = 
+•	How do we know if it succeeds = 
+•	How to find & test users and how many and what background = 
