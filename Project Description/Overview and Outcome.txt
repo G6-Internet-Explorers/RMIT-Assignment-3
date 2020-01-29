@@ -1,9 +1,8 @@
 
 
+Overview
 
-
-
-
+A subscription-based mobile application package that you can purchase, which assists in the development of small to large scale agricultural development. This application package comes with a sensor device that can be added to a pot plant, or larger devices for a vegetable bed, to capture environmental data. This environmental data includes moisture content, soil type, soil requirements, soil characteristics and weather information. The information provided gives the customer live-data and life cycle assistance to ensure plant development is met in the best of conditions. So that the end result is a thriving agricultural environment giving quality produce or enjoyment.
 
 Outcomes
 The outcome for this project would be that we have a robust, reliable working application and system to suit the novice at-home gardener and students then be able to expand on that technology to cater for large industrial vertical farms to increase their maximum capacity using a minimal carbon footprint
