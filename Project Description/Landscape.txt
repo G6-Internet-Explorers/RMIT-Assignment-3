@@ -1,6 +1,5 @@
-Landscape - Daria
-At least 1 paragraph to compose the below information
-•	Similar systems available = 
-•	What competitors = 
-•	Difference compared to existing = 
-**Individually make own list and fill in as a group during discussion? – Due Date
+There are a lot of different plant devices, some of them are more like Garden Mates and some are less. For example, a device which is capable to measure soil moisture, temperature, and light and automatically water your plant with the built in water pump. Or another one, self-contained automatic watering pot consisting of a soil sensor as well as the water reservoir built into a cavity in the pot.
+There is a competition between automatic and non-automatic plant watering and monitoring systems. The most leading ones are PlantMaid and Parrot Pot.
+Garden Mates is quite similar to Parrot Pot but the distinguish feature of it is a sensor device that can be added not only to a pot plant, but also to larger devices. So it can be used in agricultural development.
+
+Plantwhisperer (2019) Best tech gadgets for indoor plant lovers [Online]. Available at: https://www.plantmaid.com/best-tech-gadgets-for-indoor-plant-lovers/ (Accessed: 22 April 2019)
