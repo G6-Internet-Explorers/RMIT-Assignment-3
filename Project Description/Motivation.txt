@@ -3,3 +3,6 @@
 •	Why is it important = Brian
 •	Does it fit with IT trends = 
 •	What would it show an employer =
+
+
+Our motivation for pursuing gardenMates as a viable project stems from very real personal experiences of having pot plants, herbs and vegetables advertised as easy to grow, end up dead or ravished by insects or desease. Feedback from friends and relatives shows that this issue is not unique to us. Gardening can be very calming and therapeutic, less so when there are poor outcomes, so keeping plants alive for longer assists mental health. Having access to fresh herbs and vegetables is also important to physical wellbeing. The combination of a remote sensor an IOT device and a mobile phone application is very much on trend in I.T. terms with home gardeners and time poor city dwellers. We believe that our project, providing an inovative, cost effective, easy to use solution to gardening dilemas will provide a future employer with a better appreciation of our capabilities, problem solving abilities and exceptional team co-operation skills.
