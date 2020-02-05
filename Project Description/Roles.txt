@@ -1,3 +1,4 @@
+Added text to draft word doc
 Roles
 Several roles are required for the GardenMates project. These are as follows:
 1.	Chief Technology Officer / Product manager (position filled by team member Jeremy) – The role of this person is the know the total scope of the project from start to finish, inside and out. This person will oversee every aspect of the project and ensure that each component has been achieved to expectations. Most likely, the PM will be one of the team members and the individual for this position may change as the project evolves and if it takes different directions.
