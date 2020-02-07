@@ -1,4 +1,11 @@
 Testing
+
+Our initial testing would be by using the teams family members and supplying them with a working prototype and the application. The reasoning behind this is that using people that are close to us, should there be an issue it would not be discussed in public, possibly causing negative press or social media hype. 
+Family members would range from an older group such as grandparents to a younger audience such as our brothers, sisters and cousins.
+These age ranges also have diverse interests in gardening and using electronics and smart apps, so we would also be able to gauge the interest and usability of the product. 
+We would also test with a few people that do not speak English. The feedback from this would be how simple the app is to use and how informative the icons and navigation.
+The compiled feedback from these individual groups would be an excellent indicator of bugs, navigation, and usability.
+
 1 paragraph
 •	How will we test the project = 
 •	How do we know if it succeeds = 
