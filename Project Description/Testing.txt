@@ -1,10 +1,44 @@
-Testing
+Testing - Ms Word Doc file updated
 
-Our initial testing would be by using the teams family members and supplying them with a working prototype and the application. The reasoning behind this is that using people that are close to us, should there be an issue it would not be discussed in public, possibly causing negative press or social media hype. 
-Family members would range from an older group such as grandparents to a younger audience such as our brothers, sisters and cousins.
-These age ranges also have diverse interests in gardening and using electronics and smart apps, so we would also be able to gauge the interest and usability of the product. 
-We would also test with a few people that do not speak English. The feedback from this would be how simple the app is to use and how informative the icons and navigation.
-The compiled feedback from these individual groups would be an excellent indicator of bugs, navigation, and usability.
+Stage 1 – Inhouse Testing
+a)	Front-End testing - ensuring the app is stable on both IOS and Android devices. Several different devices using each operating system such as handphones and tablets would be used. This can initially be performed using emulators.
+b)	Ensuring all features are functionable and communicating with the server and database.
+c)	 Ensure advertising banners are functioning correctly
+d)	Back-End testing ensuring that updates can be pushed to the application on above platforms/devices.
+e)	Ensure the application is functionable with all screen sizes.
+f)	Ensure application is functionable with both WLAN and mobile networks.
+g)	Testing the sensors in extreme conditions such as putting them in a refrigerator, freezer, oven and submerging in water for different periods and that the sensors are still functionable within predetermined preset levels.
+Stage 2 – Preparation
+a)	Create end user licenses, warnings, permissions, privacy statement, support pages.
+b)	Upload the application to Google Play and App Store not in public to test user downloading and installation.
+c)	Agree on versioning and pricing structure.
+Stage 3 – Usability Testing
+a)	Our initial testing would be by using the teams family members and supplying them with a working prototype and the application. The reasoning behind this is that using people that are close to us, should there be an issue it would not be discussed in public, possibly causing negative press or social media hype. 
+b)	Family members would range from an older group such as grandparents to a younger audience such as our brothers, sisters and cousins.
+c)	These age ranges also have diverse interests in gardening and using electronics and smart apps, so we would also be able to gauge the interest and usability of the product. 
+d)	We would also test with a few people that do not speak English. The feedback from this would be how simple the app is to use and how informative the icons and navigation.
+e)	The compiled feedback from these individual groups would be an excellent indicator of bugs, navigation, and usability.
+Stage 4 – Initial Real Testing Points
+a)	Ease of installation
+b)	Data requirements
+c)	Memory
+d)	Application speed
+e)	Conflicts with operating systems
+f)	Conflicts with other applications
+g)	Communication issues
+h)	Signup and Login
+i)	Error messages
+j)	Online and Offline usage
+Stage 5 – Quality of Product
+a)	Statistics obtained from initial testing.
+b)	Security testing.
+c)	Data and storage usage at server level.
+d)	Testers personal feedback
+e)	Code review
+f)	Product meets acceptance criteria
+Stage 6 – Beta Public Testing
+
+
 
 1 paragraph
 •	How will we test the project = 
