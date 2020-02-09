@@ -1,4 +1,20 @@
 Risks
+
+1.	Unwanted App – We run the risk that users don’t actually want an app to look after their plants. Although our team has personal experiences and feel positive that our product will improve peoples (and plants) lives, there is the possibility that the gardening community prefer to garden without technology.
+2.	The Application Too Popular – Contrary to the above, there is the risk that the product will become too popular. This could cause the team to quickly run out of money, run out of resources, not have enough people working on the project and the possibilities of overloading servers and resources.
+3.	Denied Hosting – There is a major risk that App Store or Google Play may not want to host our application. Users would be very wary to download and use an app that has not been vetted by these hosts as being secure.
+4.	Excessive Data – there could be the risk that the application and abundance of users creates too much data. This excessive data such as forums and user groups could also overload the users device or data plan causing them to loose interest in the app and uninstall it.
+5.	Wrong Development Partner – although we have chosen AWS to be our hosting service, the teams unfamiliarity with using this service, we could by fault of misunderstanding not be subscribed to the correct solution. AWS for example might provide enough resources on the interim, but other hosting such as Azure may in fact offer a better solution.
+6.	Security Breaches – There could be issues such as cross site forgery, insecure communications and insecure storage flaws. The risk of assuming native apps are inherently secure could cause us to overlook correct security measures.
+7.	Investing in Wrong Platform – Similar to developers that spent a lot of money and resources developing apps for Blackberry, there is the risk that some day, like Windows phones and Blackberry that there will be a newer or more popular platform take the place of where we have invested.
+8.	Timing Risks – Shifting trends and newer technology could cause our product to be obsolete. A newer all in one product at a cheaper price with free delivery could become available prior to our product launch. A plant disease could quickly spread across the country and consumers may not want to buy plants or gardening products. Launching the product just after a major frost or hailstorm could cause users to question the positives of our product.
+9.	Marketing Risks – Selling our product too cheap could cause consumers to think that it is inferior and selling too expensive could cause consumers to question the purchase of our product.
+10.	Market Trends – There could be a brand new hobby, game or product to take the world by storm. Example: The Rubik’s Cube, Planking, Hover Boards to name a few. Consumers could possible be swung by these trends and have a much declined interest in gardening or our product.
+11.	Brand Risk – Our product “GardenMates” could possibly not be accepted by the gardening community. Where our team feels that the word “mates” is friendly and colonial Australian, our target consumer may feel the term is not appropriate for a product that they would buy or have in their home.
+12.	Reputation – A bad review on App Store or Google Play could seriously damage the products reputation and consumer confidence. There is also the risk that a competitor to give multiple false comments and ratings.
+13.	Appealing Design – Users may in fact not like our icons and the flow of the application. They might not understand the help and support pages or not like the language. The color scheme albeit might appeal to our team, could in fact be a negative for us as users may find certain color schemes more appealing.
+
+
 What PROJECT SPECIFIC risks can you identify for your project?
 “Do not include computers breaking down the night before a deadline, health and family issues, and institutional changes = No Generic Risks”
 **Individually make own list and fill in as a group during discussion? – Due Date
